@@ -4,6 +4,8 @@
 
 # Build
 /out
+/build
+/bin
 
 # Gradle
 /.gradle
